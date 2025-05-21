@@ -26,3 +26,7 @@ public class StudentManager {
         return students.contains(name);
     }
 }
+
+public class BookManager{
+	
+}
